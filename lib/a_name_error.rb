@@ -1,3 +1,3 @@
 "hello world"
 
-var string = "hello_world"
+puts "hello_world"
